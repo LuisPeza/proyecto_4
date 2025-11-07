@@ -25,10 +25,10 @@ Cada fila corresponde a un pedido en la aplicacion instacart
 
 Productos unicos que pueden comprar.
 
-'product_id': número ID que identifica de manera única cada producto.
-'product_name': nombre del producto.
-'aisle_id': número ID que identifica de manera única cada categoría de pasillo de víveres.
-'department_id': número ID que identifica de manera única cada departamento de víveres.
+- 'product_id': número ID que identifica de manera única cada producto.
+- 'product_name': nombre del producto.
+- 'aisle_id': número ID que identifica de manera única cada categoría de pasillo de víveres.
+- 'department_id': número ID que identifica de manera única cada departamento de víveres.
 
 Articulo solicitado en un pedido.
 
